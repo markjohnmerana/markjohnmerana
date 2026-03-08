@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Large Language Model
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me markjohnmerana@gmail.com
+- 🟢 View my works here: https://engr-insight.netlify.app/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love studying Data Engineering and Analytics
 
