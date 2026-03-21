@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markjohnmerana
 - 👀 I’m interested in Data Analytics, Data Engineering, AI/ML Engineering and Cloud Computing
 - 🏢 Currently working as Design Support Engineer.
-- 📈 Preparing for Data Analyst Role.
+- 📈 Preparing for Data Engineering/Data Analyst Role.
 - 📫 How to reach me markjohnmerana@gmail.com
 - 🟢 View my works here: https://engr-insight.netlify.app/
 - 😄 Pronouns: He/Him
